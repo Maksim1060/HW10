@@ -19,7 +19,7 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println("Задача 1");
+        System.out.println("Задача  1");
         int[] salaryMounth = generateRandomArray();
         int sum = 0;
         for (int i : salaryMounth) {
